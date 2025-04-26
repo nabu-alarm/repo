@@ -4,5 +4,7 @@
   "linux-firmware-xiaomi-nabu": "bf48b49f55e07bdea8fe571279d64505ead54c54",
   "alsa-ucm-conf-xiaomi-nabu": "8d5b529a358c945e05d87a7c8a45bf2f333df2b3",
   "qrtr": "baf8fd26d2a6daac27d7d0514a6446957ff37dfa",
+  "rmtfs": "08fc5651c594dc9ae00a3e585a00f018e3f96188",
+  "tqftpserv": "4dce171f38e389b6027d9f01487adb916afcced0",
   "qbootctl": "64683fb62f18c4c9f5e35175864832d61a2fbcbe"
 }
