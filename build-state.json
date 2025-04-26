@@ -1,4 +1,6 @@
 {
   "nabu-alarm-keyring": "547787073e3c9a4bf86080e22c4154891cd396f1",
-  "linux-nabu": "8c12e3aea963848ae25136d82afa80ac0f1f8e1b"
+  "linux-nabu": "8c12e3aea963848ae25136d82afa80ac0f1f8e1b",
+  "linux-firmware-xiaomi-nabu": "b9e7a37ca7c4e89fdd7022ebdebe268d121428e6",
+  "alsa-ucm-conf-xiaomi-nabu": "8d5b529a358c945e05d87a7c8a45bf2f333df2b3"
 }
