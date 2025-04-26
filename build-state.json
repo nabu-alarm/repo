@@ -3,5 +3,6 @@
   "linux-nabu": "332691d8773a347ca1c2ccbd950d706bbc5c029e",
   "linux-firmware-xiaomi-nabu": "bf48b49f55e07bdea8fe571279d64505ead54c54",
   "alsa-ucm-conf-xiaomi-nabu": "8d5b529a358c945e05d87a7c8a45bf2f333df2b3",
+  "qrtr": "baf8fd26d2a6daac27d7d0514a6446957ff37dfa",
   "qbootctl": "64683fb62f18c4c9f5e35175864832d61a2fbcbe"
 }
